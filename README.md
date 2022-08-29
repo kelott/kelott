@@ -1,4 +1,6 @@
-### Hi there 👋
+###Hi, welcome to my page!
+
+I'm Kevin, Full Stack Developer from Tromsø, Norway, currently living in Rastatt, Germany.
 
 <!--
 **kelott/kelott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
