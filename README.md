@@ -4,6 +4,8 @@ I'm Kevin, Full Stack Developer from Tromsø, Norway, currently living in Rastat
 
 Specialized in JavaScript technologies. Experienced in React, Redux, NextJS, TypeScript, Node, Express, Koa, Mongo, SQL, GraphQL, Angular.
 
+Check out my [LinkedIn](https://www.linkedin.com/in/kevin-ott-se/) profile.
+
 <!--
 **kelott/kelott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
