@@ -1,6 +1,6 @@
-# Hi, welcome to my page!
+![Header](./header.png)
 
-I'm Kevin, Full Stack Developer from Tromsø, Norway, currently living in Rastatt, Germany.
+From Tromsø, Norway, currently living in Rastatt, Germany.
 
 Specialized in JavaScript technologies. Experienced in React, Redux, NextJS, TypeScript, Node, Express, Koa, Mongo, SQL, GraphQL, Angular.
 
